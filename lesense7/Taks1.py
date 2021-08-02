@@ -9,7 +9,7 @@ def find(my_dict):
     # city = input()
     a = my_dict.values()
     b = my_dict.keys()
-    print(a[0], b[0])
+    print(list(a)[1])
     return ("1111")
 
 
