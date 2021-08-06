@@ -22,7 +22,6 @@ for i in dict:
     if max < dict[i]:
         max=dict[i]
         a=i
-
 #     new_list = []
 # for chis in dict:
 #     new_list.append(chis)
